@@ -1,0 +1,32 @@
+{
+    "name": "toMsg",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon --inspect index.js",
+        "build": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "amrToMp3": "^2.0.0",
+        "cheerio": "^1.0.0-rc.5",
+        "dayjs": "^1.9.8",
+        "fs-extra": "^9.0.1",
+        "lodash": "^4.17.20",
+        "md5-file": "^5.0.0"
+    },
+    "nodemonConfig": {
+        "ignore": [
+            "input/*",
+            "dist/*"
+        ]
+    },
+    "engines": {
+        "node": ">=16.15.1",
+        "npm": ">=8.12.2"
+    }
+}
