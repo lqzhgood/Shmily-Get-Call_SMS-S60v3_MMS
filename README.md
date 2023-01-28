@@ -32,8 +32,9 @@
 └─ readme.md
 ```
 
-1. 彩信文件
+1. 获取彩信文件
 
+    - 使用 Nokia 套件( .\toMsg\Tool\Nokia_PC_Suite_ALL_7.1.180.94.exe) 导出手机彩信
     - 放入 `.\input\${device}\` 文件夹
 
 2. 解码彩信头部信息 (记录内容为收发号码及附件信息等)

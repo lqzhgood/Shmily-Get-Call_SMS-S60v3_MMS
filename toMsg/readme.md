@@ -25,3 +25,5 @@
 
 可以用来打开 Nokia 备份
 ![NbuExplorer](./Tool/NbuExplorer/NbuExplorer.png)
+
+消息路径是 `Private\1000484b`
