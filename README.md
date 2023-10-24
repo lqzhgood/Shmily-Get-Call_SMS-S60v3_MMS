@@ -53,6 +53,9 @@
     - 执行 `npm run build`
     - 在 `dist` 文件夹中获得
 
+## 其他
+`Tool` 和 `doc` 等可以参考 `Symbian S60v3 SMS 短信` 导出  [Shmily-Get-Call_SMS-S60v3_SMS](https://github.com/lqzhgood/Shmily-Get-Call_SMS-S60v3_SMS)
+
 ## 感谢
 
 http://lqzhgood.github.io/Shmily/guide/other/thanks.html
